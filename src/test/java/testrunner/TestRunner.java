@@ -30,7 +30,10 @@ public class TestRunner {
 System.out.println("1");
 	}
 	
-	
+	private void prakash() {
+System.out.println("2");
+
+	}
 
 }
 
