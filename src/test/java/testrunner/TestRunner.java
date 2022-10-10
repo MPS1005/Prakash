@@ -35,8 +35,13 @@ System.out.println("2");
 
 	}
 	private void kavin2() {
-System.out.println("2");
+		System.out.println("2");
+			}
+	private void primcver() {
+		System.out.println("hdifaskch");
 	}
+
+	
 	
 
 
