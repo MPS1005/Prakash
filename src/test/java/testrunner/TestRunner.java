@@ -29,7 +29,9 @@ public class TestRunner {
 	private void kavin() {
 System.out.println("1");
 	}
-	
+	private void kavin2() {
+System.out.println("2");
+	}
 	
 
 }
