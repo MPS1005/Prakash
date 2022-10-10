@@ -29,10 +29,16 @@ public class TestRunner {
 	private void kavin() {
 System.out.println("1");
 	}
+	
+	private void prakash() {
+System.out.println("2");
+
+	}
 	private void kavin2() {
 System.out.println("2");
 	}
 	
+
 
 }
 
